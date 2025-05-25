@@ -1,4 +1,4 @@
-# cl# clientcommands
+# clientcommands
 Adds several useful client-side commands to Minecraft
 
 ## Installation
