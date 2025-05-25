@@ -12,7 +12,7 @@ Adds several useful client-side commands to Minecraft
 1. Download clientcommands from the [releases page](https://github.com/Earthcomputer/clientcommands/releases) or from [Modrinth](https://modrinth.com/mod/client-commands)
    and move it to the mods folder (`.minecraft/mods`).
 
-## Contributing
+### Contributing
 To contribute translations, see the [translation contribution guidelines](docs/TRANSLATING.md).
 
 For other contributions, see the [contribution guidelines](docs/CONTRIBUTING.md).
